@@ -1,16 +1,6 @@
 ## This is Siddhi Jayade 👋
+🌱 I’m currently learning Data Visualization, Power BI and improving my Python for Data Analysis.
+🤔 I’m looking for help with real-world data analytics projects and improving my Power BI dashboards.
+📫 How to reach me: siddhijayade@gmail.com
+⚡ Fun fact: You get life once so enjoy, learn and explore...
 
-<!-
-**Siddhi2004-lab/Siddhi2004-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Data Visualization, Power BI and improving my Python for Data Analysis.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with real-world data analytics projects and improving my Power BI dashboards.
-- 💬 Ask me about ...
-- 📫 How to reach me: siddhijayade@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: You get life once so enjoy, learn and explore...
--->
